@@ -12,7 +12,7 @@ function App() {
         <div className="flex flex-row space-x-7 justify-center items-center">
           <img src="/icons/instagram.png" className="size-8 " />
           <img src="/icons/facebook.png" className="size-8" />
-          <img src="/icons/twitter.png" className="size-8" />
+          {/* <img src="/icons/twitter.png" className="size-8" /> */}
         </div>
       </div>
 
